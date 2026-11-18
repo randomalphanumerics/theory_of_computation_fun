@@ -1,0 +1,1 @@
+Some fun ToC constructs implemented in C. Something that would be closer to the "ideal" of the project would be these automata implemented in circuitry rather than C (which is already a layer of context above).
