@@ -7,13 +7,7 @@
 
 #include <stdio.h> 
 
-/* Current state machine is designed to detect two 1s in a row, and reject all other states
- *
- *
- *
- */ 
-
-
+// Current state machine is designed to detect two 1s in a row, and reject all other states
 
 enum state {
     ONE, TWO, THREE
